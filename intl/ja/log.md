@@ -19,6 +19,13 @@
 
 思ったこと:今まで訳分からず打ってたコマンドの意味がしれた。いまだにgitの流れがわからん。
 
+３日目: 2021年6月19日（土）
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day3(ポテパン55日目):<br>今日からrailsでスケジュール管理アプリの作成を始めた。これでCRUDの作成の仕方をしっかり身につけよう💪<a href="https://twitter.com/hashtag/100DaysOfCloud?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCloud</a> <a href="https://twitter.com/hashtag/%E3%83%9D%E3%83%86%E3%83%91%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97?src=hash&amp;ref_src=twsrc%5Etfw">#ポテパンキャンプ</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニアとつながりたい</a></p>&mdash; しょーぴん (@sho_programin) <a href="https://twitter.com/sho_programin/status/1406218912379772934?ref_src=twsrc%5Etfw">June 19, 2021</a></blockquote> 
+
+今日の進捗:raisでスケジュール管理アプリの作成を始めた。新規登録機能、一覧表示機能を実装。
+
+思ったこと:progateで教わってないことがかなり出てきた。ERBをSlimで書くのは慣れないうちは難しいけど習得すればかなりスタイリッシュに書けそう。他にもエラーメッセージの日本語訳やモデルの翻訳情報の追加などこれから活用できそうなことはしっかり身につけよう。
+
 --テンプレ--
 
 x日目: 2021年x月xx日（x）
