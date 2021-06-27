@@ -62,6 +62,20 @@
 
 思ったこと:githubからクローンして作成するのに罠があると思わなかった。とりあえず解決。そしてまさかのプロゲートがむずい。
 
+9日目: 2021年6月25日（金）
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day9(ポテパン60日目):<br>今日はスケジュール管理アプリのトップページの作成に取り掛かった。slimで描いてるけど中々慣れない😅<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/%E3%83%9D%E3%83%86%E3%83%91%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97?src=hash&amp;ref_src=twsrc%5Etfw">#ポテパンキャンプ</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニアと繋がりたい</a></p>&mdash; しょーぴん (@sho_programin) <a href="https://twitter.com/sho_programin/status/1408382278560993281?ref_src=twsrc%5Etfw">June 25, 2021</a></blockquote>
+
+今日の進捗:slimとbootstrapを駆使してトップページに取り掛かる。
+
+思ったこと:久しぶりに朝活をしなかった。こういうこともある。新しい技術を敬遠する癖を取り除こう。
+
+１０日目: 2021年6月26日（土）
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day10(ポテパン61日目):<br>今日は朝1時間だけ課題を進め終了！とりあえずヘッダーとフッターを作った！明日は一日籠るからがっつりやろう💪<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/%E3%83%9D%E3%83%86%E3%83%91%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97?src=hash&amp;ref_src=twsrc%5Etfw">#ポテパンキャンプ</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニアと繋がりたい</a></p>&mdash; しょーぴん (@sho_programin) <a href="https://twitter.com/sho_programin/status/1408713596259880966?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote>
+
+今日の進捗:ヘッダーとフッターのみ作成。
+
+思ったこと:朝１時間だけしか時間が取れなかった。たまにはいいでしょう。
+
 --テンプレ--
 
 x日目: 2021年x月xx日（x）
