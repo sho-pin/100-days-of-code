@@ -104,6 +104,14 @@
 
 思ったこと:蔦屋ラウンジ最高。絶対に将来ここで働けるようなエンジニアになる。あと、質問はどんどんできるようにしよう。
 
+１５日目: 2021年7月2日（金）
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day15(ポテパン67日目):<br>今日はRspecによるテストを学んだ。ログイン機能がうまく実装できていないことが発覚し解決策がわからないまま終了。質問しつつ違う視点からの解決を探ろう😖<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/%E3%83%9D%E3%83%86%E3%83%91%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97?src=hash&amp;ref_src=twsrc%5Etfw">#ポテパンキャンプ</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニアとつながりたい</a></p>&mdash; しょーぴん (@sho_programin) <a href="https://twitter.com/sho_programin/status/1410911861634043908?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote>
+
+今日の進捗:Rspecを取り入れる。
+
+思ったこと:ログイン機能がうまくいかない。本の丸写しでは限界が来ているかもしれない。
+
 
 --テンプレ--
 
