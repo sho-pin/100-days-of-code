@@ -128,6 +128,12 @@
 
 思ったこと:最近集中力が落ちてきている。他のことに惑わされずやっていかないと。
 
+１８日目: 2021年7月5日（月）
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day18(ポテパン70日目):<br>引き続きProgateでログイン機能の実装について学ぶ。いまだに何故自分の課題がうまくいかないかの原因が分からず😓<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/%E3%83%9D%E3%83%86%E3%83%91%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97?src=hash&amp;ref_src=twsrc%5Etfw">#ポテパンキャンプ</a>　<a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニアとつながりたい</a></p>&mdash; しょーぴん (@sho_programin) <a href="https://twitter.com/sho_programin/status/1412004459933167618?ref_src=twsrc%5Etfw">July 5, 2021</a></blockquote>
+
+今日の進捗:プロゲートログイン機能ほぼ終了。
+
+思ったこと:早く課題を取り組まねば。
 
 --テンプレ--
 
