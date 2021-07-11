@@ -163,6 +163,13 @@
 
 思ったこと:しっかり理解しないとダメだ。deviseすごすぎ。
 
+２３日目: 2021年7月11日（日）
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day23(ポテパン76日目):<br>deviseでログイン機能自体はすぐに導入できたけどそこからの拡張の仕方が分からず1日を費やす。<br>１歩進んで２歩下がる感じ😅<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/%E3%83%9D%E3%83%86%E3%83%91%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97?src=hash&amp;ref_src=twsrc%5Etfw">#ポテパンキャンプ</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニアと繋がりたい</a></p>&mdash; しょーぴん (@sho_programin) <a href="https://twitter.com/sho_programin/status/1414188935631106057?ref_src=twsrc%5Etfw">July 11, 2021</a></blockquote>
+
+今日の進捗:deviseの使い方をひたすら調べる。
+
+思ったこと:さわりだけで理解しようとして全然うまくいかない。そんな感じ。
+
 --テンプレ--
 
 x日目: 2021年x月xx日（x）
